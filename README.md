@@ -1,4 +1,4 @@
-# Run GPT2 in an Enclave
+# Run GPT-2 in an Enclave
 
 A Python app that takes in a text prompt and generates text using GPT-2. Running inside a secure enclave.
 
